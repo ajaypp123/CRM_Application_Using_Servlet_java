@@ -1,0 +1,16 @@
+@CHARSET "ISO-8859-1";
+
+body {
+	background-image: url(wood.jpg);
+	border: 30px solid green;
+	color: white;
+	vertical-align: justify ;
+}
+
+
+.loginbox {
+	color: white;
+	border: 5px solid red ;
+	padding: 20px ;
+}
+
